@@ -1,0 +1,26 @@
+body{
+	 background-image: url('https://futureskillsprime.in//sites/default/files/2021-04/iStock-966248982_0.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+}
+
+.container{
+	background-color: darkseagreen;
+	padding: 15px;
+	box-shadow: -20px 7px 65px 7px rgba(0,0,0,0.75);
+-webkit-box-shadow: -20px 7px 65px 7px rgba(0,0,0,0.75);
+-moz-box-shadow: -20px 7px 65px 7px rgba(0,0,0,0.75);
+}
+
+.footer {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.header {
+	text-align: center;
+	margin-top: 10px;
+	font-style: italic;
+	color: darkcyan;
+}
